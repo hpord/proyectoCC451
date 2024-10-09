@@ -22,7 +22,7 @@ body {
 }
 
 .card-title {
-    color: #007bff;
+    color: #06114e;
 }
 
 .card-text {
@@ -40,13 +40,13 @@ body {
 }
 
 .btn-primary {
-    background-color: #6f42c1;
-    border-color: #6f42c1;
+    background-color: #0c611a;
+    border-color: #0c611a;
 }
 
 .btn-primary:hover {
-    background-color: #5a32a3;
-    border-color: #5a32a3;
+    background-color: #0c611a;
+    border-color: #0c611a;
 }
 
 .list-group-item {
